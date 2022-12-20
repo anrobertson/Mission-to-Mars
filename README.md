@@ -38,4 +38,10 @@ for elem in slide_elem:
 ```
 After scraping this web page, I moved on to the Mars Weather Data. Once, again I extracted the data but instead of finding a list, I used the 'table' class. Once using my for loop to gather the header rows, I created a Pandas DataFrame and changed the data types for the analysis. At this point, I was ready to create the graphs.
 
+### Monthly Average Low Temperature
+![](images/monthlyavglow.png)
+
+### Monthly Average Pressure
+![](images/monthlyavgpressure.png)
+
 
